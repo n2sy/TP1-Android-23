@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alaa App</string>
+    <string name="resultat">: %2$s : Le résultat est %1$f  !</string>
+    <!--    <string name="resultat_dinars">%1$f dinars !</string>-->
+
+
+
+
+
+
+
+</resources>
+
